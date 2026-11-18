@@ -1,0 +1,43 @@
+# Embarcadero C++Builder / RAD Studio
+__astcache/
+__history/
+__recovery/
+Win32/
+Win64/
+Debug/
+Release/
+
+# Intermediate & build files
+*.obj
+*.o
+*.pch
+*.tds
+*.dcu
+*.ilc
+*.ild
+*.ilf
+*.ils
+*.map
+*.pdi
+*.res
+*.local
+*.identcache
+*.stat
+*.tgs
+*.tgw
+*.drc
+*.~*
+
+# Executables in root
+*.exe
+*.dll
+*.bpl
+
+# Access lock file
+*.ldb
+*.laccdb
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
